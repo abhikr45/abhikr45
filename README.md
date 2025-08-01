@@ -3,7 +3,8 @@
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Abhishek Kumar, Full Stack Web Developer :computer:<br>
   <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">   &nbsp;  &nbsp; &nbsp;  &nbsp;  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">
+  
  </abc>
 </h2> 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
@@ -37,5 +38,6 @@
 
   [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/wizgod045/)  &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/abhikr45)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](www.linkedin.com/in/abhishekkr45)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/share/171z6QxgvH/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/__abhi_kr?igsh=ZDMxazNpZWJtcXNv)  &nbsp; <a href="mailto:abhishekmgs792@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
   
+ 
 
    
